@@ -1,3 +1,82 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "Hero banner with handmade gifts",
+      "imageUrl": "https://images.unsplash.com/photo-1764385827707-081defd5a4db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoYW5kbWFkZSUyMGdpZnRzfGVufDB8fHx8MTc2NTY1NzMxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handmade gifts"
+    },
+    {
+      "id": "about-image",
+      "description": "Artisan working on a craft",
+      "imageUrl": "https://images.unsplash.com/photo-1615243639681-1208d685758a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhcnRpc2FuJTIwd29ya3xlbnwwfHx8fDE3NjU2NTczMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artisan work"
+    },
+    {
+      "id": "product-1",
+      "description": "Handmade decorated soap",
+      "imageUrl": "https://images.unsplash.com/photo-1607006555987-49a12f7c0488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoYW5kbWFkZSUyMHNvYXB8ZW58MHx8fHwxNzY1NTg0MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handmade soap"
+    },
+    {
+      "id": "product-2",
+      "description": "Artisan chocolate bars",
+      "imageUrl": "https://images.unsplash.com/photo-1760307207865-c49d6670e572?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhcnRpc2FuJTIwY2hvY29sYXRlfGVufDB8fHx8MTc2NTY1NzMxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artisan chocolate"
+    },
+    {
+      "id": "product-3",
+      "description": "Hand knitted scarf",
+      "imageUrl": "https://images.unsplash.com/photo-1581282241923-50649ab8bb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxrbml0dGVkJTIwc2NhcmZ8ZW58MHx8fHwxNzY1NTM1NDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knitted scarf"
+    },
+    {
+      "id": "product-4",
+      "description": "Custom decorated cookies",
+      "imageUrl": "https://images.unsplash.com/photo-1608780523936-c9c1fa752684?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkZWNvcmF0ZWQlMjBjb29raWVzfGVufDB8fHx8MTc2NTY1NzMxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "decorated cookies"
+    },
+    {
+      "id": "product-5",
+      "description": "Scented soy candle",
+      "imageUrl": "https://images.unsplash.com/photo-1612293905607-b003de9e54fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2VudGVkJTIwY2FuZGxlfGVufDB8fHx8MTc2NTY0NjAxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scented candle"
+    },
+    {
+      "id": "insta-1",
+      "description": "Flatlay of handmade products",
+      "imageUrl": "https://images.unsplash.com/photo-1554938521-9e0763797568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmFmdCUyMGZsYXRsYXl8ZW58MHx8fHwxNzY1NjU3MzExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "craft flatlay"
+    },
+    {
+      "id": "insta-2",
+      "description": "Close up of a sweet treat",
+      "imageUrl": "https://images.unsplash.com/photo-1611924253045-2b5998328fd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzd2VldCUyMHRyZWF0c3xlbnwwfHx8fDE3NjU2NTczMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sweet treats"
+    },
+    {
+      "id": "insta-3",
+      "description": "Gift wrapping station",
+      "imageUrl": "https://images.unsplash.com/photo-1576028531128-f6cfa62661b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnaWZ0JTIwd3JhcHBpbmd8ZW58MHx8fHwxNzY1NTg2NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gift wrapping"
+    },
+    {
+      "id": "insta-4",
+      "description": "Happy customer with a gift",
+      "imageUrl": "https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFwcHklMjBjdXN0b21lcnxlbnwwfHx8fDE3NjU1ODU1MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy customer"
+    },
+    {
+      "id": "insta-5",
+      "description": "Artisan craft fair booth",
+      "imageUrl": "https://images.unsplash.com/photo-1454873019514-eae2f086587a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcmFmdCUyMGZhaXJ8ZW58MHx8fHwxNzY1NjU3MzExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "craft fair"
+    },
+    {
+      "id": "insta-6",
+      "description": "New product sneak peek",
+      "imageUrl": "https://images.unsplash.com/photo-1628794397139-a45fc3286892?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bmV3JTIwcHJvZHVjdHxlbnwwfHx8fDE3NjU1NjQ0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "new product"
+    }
+  ]
 }
