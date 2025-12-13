@@ -32,7 +32,7 @@ export default function Hero() {
               <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground font-bold shadow-lg transition-transform hover:scale-105">
                 <Link href="#products">Ver Produtos</Link>
               </Button>
-              <Button asChild size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary font-bold shadow-lg transition-transform hover:scale-105">
+              <Button asChild size="lg" variant="outline" className="border-white text-white hover:bg-black hover:text-white bg-black font-bold shadow-lg transition-transform hover:scale-105">
                 <Link href="#contact">Fale Conosco</Link>
               </Button>
             </div>
