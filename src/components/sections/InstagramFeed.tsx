@@ -16,7 +16,7 @@ export default function InstagramFeed() {
            <h2 className="font-headline text-3xl md:text-4xl font-bold text-foreground">
              Siga-nos no Instagram
            </h2>
-           <p className="text-accent mt-2 font-semibold text-lg">@mimosdocesepresentes</p>
+           <p className="text-accent mt-2 font-semibold text-lg">@mimos_cestas_epresentes</p>
          </div>
          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2 sm:gap-4">
            {instaImages.map(image => (
