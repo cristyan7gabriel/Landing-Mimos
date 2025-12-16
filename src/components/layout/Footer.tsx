@@ -3,6 +3,8 @@ import { Gift, Instagram, Facebook } from 'lucide-react';
 
 export default function Footer() {
   const year = new Date().getFullYear();
+  const INSTAGRAM_PROFILE_URL = "https://www.instagram.com/mimos_cestas_epresentes/";
+
   return (
     <footer className="bg-secondary">
       <div className="container mx-auto px-4 py-8 md:px-6">
@@ -14,7 +16,7 @@ export default function Footer() {
             </span>
           </Link>
           <div className="flex items-center gap-4">
-            <Link href="#" aria-label="Instagram">
+            <Link href={INSTAGRAM_PROFILE_URL} aria-label="Instagram" target="_blank" rel="noopener noreferrer">
               <Instagram className="h-6 w-6 text-muted-foreground transition-colors hover:text-primary" />
             </Link>
             <Link href="#" aria-label="Facebook">

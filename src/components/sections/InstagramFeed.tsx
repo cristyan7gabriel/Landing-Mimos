@@ -20,7 +20,7 @@ export default function InstagramFeed() {
          </div>
          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2 sm:gap-4">
            {instaImages.map(image => (
-             <Link key={image.id} href="#" className="group relative block overflow-hidden rounded-lg">
+             <Link key={image.id} href={INSTAGRAM_PROFILE_URL} target="_blank" rel="noopener noreferrer" className="group relative block overflow-hidden rounded-lg">
                <Image
                  src={image.imageUrl}
                  alt={image.description}
