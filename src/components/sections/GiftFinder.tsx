@@ -1,6 +1,7 @@
 "use client";
 
-import { useFormState, useFormStatus } from 'react-dom';
+import { useActionState } from 'react';
+import { useFormStatus } from 'react-dom';
 import { getGiftSuggestions } from '@/app/actions';
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
@@ -30,7 +31,7 @@ function SubmitButton() {
 
 export default function GiftFinder() {
   const initialState = { success: false };
-  const [state, formAction] = useFormState(getGiftSuggestions, initialState);
+  const [state, formAction] = useActionState(getGiftSuggestions, initialState);
   const { toast } = useToast();
 
   useEffect(() => {
