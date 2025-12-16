@@ -3,7 +3,7 @@
 import { Phone, MessageCircle } from "lucide-react"
 
 export default function Contact() {
-  const WHATSAPP_LINK = "https://wa.me/5511999999999";
+  const WHATSAPP_LINK = "https://wa.me/5562994811821?text=Olá, vi um produto no site e tenho interesse em realizar a compra! ";
 
   return (
     <section id="contact" className="py-16 md:py-24 bg-secondary">
@@ -25,7 +25,7 @@ export default function Contact() {
                     <div>
                         <h3 className="font-semibold text-lg">Telefone</h3>
                         <p className="text-muted-foreground">Disponível de Seg. a Sex. das 9h às 18h.</p>
-                        <a href="tel:+5511999999999" className="text-primary hover:underline">(11) 99999-9999</a>
+                        <a href="tel:+5562994811821" className="text-primary hover:underline">(62) 99481-1821</a>
                     </div>
                 </div>
                 <div className="flex items-start gap-4">
